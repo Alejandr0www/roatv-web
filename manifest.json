@@ -1,0 +1,19 @@
+{
+  "name": "RoaTV",
+  "short_name": "RoaTV",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#070908",
+  "theme_color": "#070908",
+  "description": "Películas, series y televisión en un solo lugar.",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "purpose": "any",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "src": "roa.svg"
+    }
+  ]
+}
